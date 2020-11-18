@@ -1,0 +1,38 @@
+body {
+    background-color:#ffe4e4;
+    max-width: fit-content;
+ }
+
+h1 {
+    color:  #af0000;
+ }
+
+h3 {
+    color: #580c0c;
+    width: 50;
+    border-color: #8b4c4c;
+    border-radius: 5px;
+ }
+
+tr {
+    color: #af0000;
+ }
+
+hr {
+    border-color: #720000;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+}
+
+img {
+    border-style: dotted;
+    border-width: 5px;
+    border-radius: 100%;
+}
+
+img:hover {
+    border-color: red;
+}
