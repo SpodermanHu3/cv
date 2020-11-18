@@ -17,6 +17,14 @@ tr {
     color: #af0000;
  }
 
+ ol {
+    color: #af0000;
+ }
+
+ ul {
+    color: #af0000;
+ }
+
 hr {
     border-color: #720000;
     border-style: none;
